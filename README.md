@@ -1,5 +1,4 @@
-# Newsboat Config README
-
+# Newsboat Config
 
 [Newsboat](https://github.com/newsboat/newsboat) 
 
